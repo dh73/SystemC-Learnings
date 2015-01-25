@@ -1,0 +1,1 @@
+g++ -I /home/diego/EDA/SystemC/SystemC_Home/include -L /home/diego/EDA/SystemC/SystemC_Home/lib-linux64 -l systemc -o full_adder full_adder*.cpp
